@@ -1,8 +1,10 @@
 # BMO
 visualization app in bfs technology
+
 Graduated project for ODC-SWE
 ## Getting Started
 This app implements BFS technology in c++ 
+
 Through the BMO (robot), he searches for the shortest way to reach the exit gate
 ### Prerequisites
 exe file opener

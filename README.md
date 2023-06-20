@@ -1,4 +1,4 @@
-![icons8-bmo-48](https://github.com/zeyadlotfy/BMO/assets/114695576/5aaa51f9-966d-4323-8257-0549db2dd96a) 
+![icons8-bmo-48](https://github.com/zeyadlotfy/BMO/assets/114695576/b077bdbd-730c-4316-8e87-e8ab200c05e9)
 # BMO
 
 visualization app in BFS algorithm

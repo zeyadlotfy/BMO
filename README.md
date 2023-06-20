@@ -3,7 +3,8 @@ visualization app in bfs technology
 
 Graduated project for ODC-SWE
 ## Getting Started
-This app implements BFS technology in c++ 
+This app implements BFS technology in c++ GUI 
+using .NET Framework with C++/CLI
 
 Through the BMO (robot), he searches for the shortest way to reach the exit gate
 ### Prerequisites

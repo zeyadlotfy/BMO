@@ -1,11 +1,11 @@
 ![icons8-bmo-48](https://github.com/zeyadlotfy/BMO/assets/114695576/5aaa51f9-966d-4323-8257-0549db2dd96a) 
 # BMO
 
-visualization app in bfs technology
+visualization app in BFS algorithm
 
 Graduated project for ODC-SWE
 ## Getting Started
-This app implements BFS technology in c++ GUI
+This app implements bfs algorithm in c++ GUI
 
 using .NET Framework with C++/CLI
 

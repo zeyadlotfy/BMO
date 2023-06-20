@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\project_ODC\BMO\BMO\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BMO.vcxproj -> D:\project_ODC\BMO\x64\Debug\BMO.exe

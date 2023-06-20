@@ -1,0 +1,4 @@
+D:\project_ODC\BMO\BMO\x64\Debug\BMO.vcxproj.AssemblyReference.cache
+D:\project_ODC\BMO\BMO\x64\Debug\BMO.vcxproj.SuggestedBindingRedirects.cache
+D:\project_ODC\BMO\BMO\x64\Debug\BMO.MyForm.resources
+D:\project_ODC\BMO\BMO\x64\Debug\BMO.vcxproj.GenerateResource.cache

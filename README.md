@@ -16,7 +16,11 @@ and easily install it
 
 ### Running 
 There are a hundred cells for BMO( the robot) to move
+
 Enter the BMO cell number, then enter the exit gate cell
+
 Then, build the walls that will stand in the way of BMO
+
 And, if there are cells that BMO cannot reach, the program will inform you
+
 Then BMO will choose the shortest path he can get to the exit gate

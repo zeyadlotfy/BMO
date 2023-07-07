@@ -5379,7 +5379,7 @@ private: System::Void edge23_33_Click(System::Object^ sender, System::EventArgs^
     this->edge23_33->Image = System::Drawing::Image::FromFile("D:\\project_ODC\\BMO\\image\\walls.jpg");
 }
 private: System::Void edge33_43_Click(System::Object^ sender, System::EventArgs^ e) {
-    e33_34 = false;
+    e33_43 = false;
     this->edge33_43->Image = System::Drawing::Image::FromFile("D:\\project_ODC\\BMO\\image\\walls.jpg");
 }
 private: System::Void edge43_53_Click(System::Object^ sender, System::EventArgs^ e) {

@@ -16,7 +16,9 @@ exe file opener
 ### Installing
 
 dawnload mysetup.exe file 
+
 https://github.com/zeyadlotfy/BMO/blob/main/setup_BMO.exe
+
 and easily install it 
 
 ### Running 

@@ -7,7 +7,7 @@ Graduated project for ODC-SWE
 
 You can see the usage experience
 
-https://drive.google.com/file/d/1TQEp4BBDOfSHB2i9Zzt2ay0iukglzVrH/view?usp=drive_link
+https://drive.google.com/file/d/1Im6cjIAPWqEiBu23z44PLMQx4LONkLeI/view?usp=sharing
 ## Getting Started
 This app implements bfs algorithm in c++ GUI
 
